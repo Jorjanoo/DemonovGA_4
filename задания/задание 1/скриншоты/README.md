@@ -5,25 +5,25 @@
 ### Random
 
 <div style="display:flex; gap:8px; align-items:center;">
-  <img src="скриншоты/Random/1.jpg" alt="1" style="width:33%; max-width:400px;">
-  <img src="скриншоты/Random/2.jpg" alt="2" style="width:33%; max-width:400px;">
-  <img src="скриншоты/Random/3.jpg" alt="3" style="width:33%; max-width:400px;">
+  <img задания="скриншоты/Random/1.jpg" alt="1" style="width:33%; max-width:400px;">
+  <img задания="скриншоты/Random/2.jpg" alt="2" style="width:33%; max-width:400px;">
+  <img задания="скриншоты/Random/3.jpg" alt="3" style="width:33%; max-width:400px;">
 </div>
 
 ### Spatial
 
 <div style="display:flex; gap:8px; align-items:center;">
-  <img src="скриншоты/Spatial/1.jpg" alt="1" style="width:33%; max-width:400px;">
-  <img src="скриншоты/Spatial/2.jpg" alt="2" style="width:33%; max-width:400px;">
-  <img src="скриншоты/Spatial/3.jpg" alt="3" style="width:33%; max-width:400px;">
+  <img задания="скриншоты/Spatial/1.jpg" alt="1" style="width:33%; max-width:400px;">
+  <img задания="скриншоты/Spatial/2.jpg" alt="2" style="width:33%; max-width:400px;">
+  <img задания="скриншоты/Spatial/3.jpg" alt="3" style="width:33%; max-width:400px;">
 </div>
 
 ### Octree
 
 <div style="display:flex; gap:8px; align-items:center;">
-  <img src="скриншоты/Octree/1.jpg" alt="1" style="width:33%; max-width:400px;">
-  <img src="скриншоты/Octree/2.jpg" alt="2" style="width:33%; max-width:400px;">
-  <img src="скриншоты/Octree/3.jpg" alt="3" style="width:33%; max-width:400px;">
+  <img задания="скриншоты/Octree/1.jpg" alt="1" style="width:33%; max-width:400px;">
+  <img задания="скриншоты/Octree/2.jpg" alt="2" style="width:33%; max-width:400px;">
+  <img задания="скриншоты/Octree/3.jpg" alt="3" style="width:33%; max-width:400px;">
 </div>
 
 ### Таблица
@@ -70,3 +70,4 @@ Octree: уровень разбиения (Subdivision level) — 8;
 Random: итоговое количество точек — 58 953.
 
 Указанные значения обеспечили наилучший баланс между сокращением размера облака точек и сохранением геометрической структуры объекта.
+
