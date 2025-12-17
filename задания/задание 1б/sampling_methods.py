@@ -6,11 +6,8 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Callable, Dict, Tuple
 
-import hydra
 import matplotlib.pyplot as plt
 import numpy as np
-from omegaconf import DictConfig
-
 
 @dataclass
 class Config:
@@ -36,7 +33,7 @@ PointCloud = np.ndarray
 def load_cloud(path: Path) -> PointCloud:
     """Read ASCII cloud (x y z [class])."""
     if not path.exists():
-        raise FileNotFoundError(path)
+        raise FileNotFoundError(f"File not found: {path}")
     data = np.loadtxt(str(path))
     if data.ndim == 1:
         data = data.reshape(1, -1)
@@ -155,10 +152,36 @@ def run(cfg: Config) -> None:
         log.info("Saved preview: %s", cfg.save_vis_to)
 
 
-@hydra.main(version_base=None, config_path="./", config_name="config")
-def main(cfg: DictConfig) -> None:
+def main():
+   
+    # Настройка логирования
     logging.basicConfig(level=logging.INFO, format="[%(levelname)s] %(message)s")
-    run(Config(**cfg))
+    
+    # Конфигурация для вашего файла
+    cfg = Config(
+        input_path="terra_02_000004.asc",  # Ваш файл в той же папке
+        output_dir="./output",  # Папка для результатов
+        
+        # Метод субдискретизации (выберите один)
+        method="random",  # "random", "voxel", или "fps"
+        
+        # Параметры для random и fps
+        n_samples=1000,  # Сколько точек оставить
+        
+        # Параметр для voxel
+        voxel_size=0.01,  # Размер вокселя (используется только для метода "voxel")
+        
+        # Остальные параметры
+        seed=42,
+        visualize=True,
+        save_vis_to="./output/vis.png",
+        save_xyz=True,
+        fps_init_index=0  # Используется только для метода "fps"
+    )
+    
+    # Запуск обработки
+    run(cfg)
+    print("Обработка завершена!")
 
 
 if __name__ == "__main__":
