@@ -1,0 +1,4002 @@
+[
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0001_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014643616372681863,
+    "global_hausdorff": 0.1638830385369105,
+    "global_chamfer": 0.052890146110645665,
+    "global_artifacts": 25
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0002_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.015002409438646877,
+    "global_hausdorff": 0.11624827145368688,
+    "global_chamfer": 0.04554702188436086,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0003_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014847465778488314,
+    "global_hausdorff": 0.111968132456353,
+    "global_chamfer": 0.04564372642268639,
+    "global_artifacts": 45
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0004_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013573006225153292,
+    "global_hausdorff": 0.11319722199103198,
+    "global_chamfer": 0.03809380897110798,
+    "global_artifacts": 42
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0005_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014907586457098691,
+    "global_hausdorff": 0.1604419438909502,
+    "global_chamfer": 0.05137764057104017,
+    "global_artifacts": 42
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0006_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014521753259976459,
+    "global_hausdorff": 0.09819471558117114,
+    "global_chamfer": 0.040048313778902174,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0007_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014342485742946056,
+    "global_hausdorff": 0.11068963407706837,
+    "global_chamfer": 0.04341401649192538,
+    "global_artifacts": 26
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0008_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014301146262948077,
+    "global_hausdorff": 0.08776538435215686,
+    "global_chamfer": 0.03987973857179173,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0009_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015422657549757237,
+    "global_hausdorff": 0.14484772675976823,
+    "global_chamfer": 0.05409978369145284,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0010_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014854887332083469,
+    "global_hausdorff": 0.14034727365740257,
+    "global_chamfer": 0.04820378381469645,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0011_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014350857158937495,
+    "global_hausdorff": 0.14999633731960418,
+    "global_chamfer": 0.04766729723044906,
+    "global_artifacts": 28
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0012_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014671974630336296,
+    "global_hausdorff": 0.1023476547241839,
+    "global_chamfer": 0.041582508830485226,
+    "global_artifacts": 51
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0013_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.015413950926022345,
+    "global_hausdorff": 0.1360144753145739,
+    "global_chamfer": 0.050792903125965835,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0014_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014372130409838597,
+    "global_hausdorff": 0.17510328271595701,
+    "global_chamfer": 0.05390201855087131,
+    "global_artifacts": 29
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0015_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014538861772170623,
+    "global_hausdorff": 0.13328617428960157,
+    "global_chamfer": 0.048605979352442825,
+    "global_artifacts": 45
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0016_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014263232623639566,
+    "global_hausdorff": 0.10662166486221782,
+    "global_chamfer": 0.042300139459464675,
+    "global_artifacts": 31
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0017_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014821752130314603,
+    "global_hausdorff": 0.08660071705721659,
+    "global_chamfer": 0.037650297926934854,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0018_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014651272584846732,
+    "global_hausdorff": 0.1014560396332419,
+    "global_chamfer": 0.042931047303827116,
+    "global_artifacts": 42
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0019_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014369915319277943,
+    "global_hausdorff": 0.09007497505089541,
+    "global_chamfer": 0.04069585095074022,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0020_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013779416145920391,
+    "global_hausdorff": 0.1132445176043891,
+    "global_chamfer": 0.04191603797463041,
+    "global_artifacts": 55
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0021_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014988705267758284,
+    "global_hausdorff": 0.14595338882910858,
+    "global_chamfer": 0.048733710511474675,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0022_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013694470804206351,
+    "global_hausdorff": 0.12453462468688505,
+    "global_chamfer": 0.043273069268317886,
+    "global_artifacts": 27
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0023_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014587963612558482,
+    "global_hausdorff": 0.10750999374246951,
+    "global_chamfer": 0.04082320877690272,
+    "global_artifacts": 30
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0024_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015437187044990159,
+    "global_hausdorff": 0.1140781406421711,
+    "global_chamfer": 0.04579581122580774,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0025_lidar_classes.ply",
+    "n_segments": 9,
+    "global_rmse": 0.014654073955757609,
+    "global_hausdorff": 0.11131263227790643,
+    "global_chamfer": 0.04099884559666957,
+    "global_artifacts": 27
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0026_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015141110064716976,
+    "global_hausdorff": 0.1173785769016119,
+    "global_chamfer": 0.04632083647532682,
+    "global_artifacts": 37
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0027_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014813959410625884,
+    "global_hausdorff": 0.15135241848447115,
+    "global_chamfer": 0.04984257845720817,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0028_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014567538942966259,
+    "global_hausdorff": 0.12242245291173584,
+    "global_chamfer": 0.04464321379171218,
+    "global_artifacts": 42
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0029_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013517030065910688,
+    "global_hausdorff": 0.10879136405634197,
+    "global_chamfer": 0.040853486082932544,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0030_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014665070795381697,
+    "global_hausdorff": 0.1330829466781255,
+    "global_chamfer": 0.04787808632549902,
+    "global_artifacts": 24
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0031_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014431672537333917,
+    "global_hausdorff": 0.09309647340367289,
+    "global_chamfer": 0.039451918883496154,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0032_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013989231786147275,
+    "global_hausdorff": 0.08331235302210042,
+    "global_chamfer": 0.036499091341855416,
+    "global_artifacts": 30
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0033_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014938846195126388,
+    "global_hausdorff": 0.1580316535251731,
+    "global_chamfer": 0.05332071208570356,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0034_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014659537766589653,
+    "global_hausdorff": 0.08071244938106839,
+    "global_chamfer": 0.03877104316692657,
+    "global_artifacts": 45
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0035_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01535511250235538,
+    "global_hausdorff": 0.18179509849401312,
+    "global_chamfer": 0.056864501938704556,
+    "global_artifacts": 44
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0036_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015128280499711693,
+    "global_hausdorff": 0.10473962357540349,
+    "global_chamfer": 0.042952594355390374,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0037_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01444971684504198,
+    "global_hausdorff": 0.08379753580854263,
+    "global_chamfer": 0.036722005601247484,
+    "global_artifacts": 41
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0038_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014616571483600188,
+    "global_hausdorff": 0.0914136301247991,
+    "global_chamfer": 0.037894876565250854,
+    "global_artifacts": 28
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0039_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014615668729851835,
+    "global_hausdorff": 0.09723999638797441,
+    "global_chamfer": 0.040711181748242176,
+    "global_artifacts": 42
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0040_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014181089601732342,
+    "global_hausdorff": 0.08571516026047919,
+    "global_chamfer": 0.03743800333998168,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0041_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014667436946983472,
+    "global_hausdorff": 0.0914538334318351,
+    "global_chamfer": 0.03991036300549833,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0042_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014641887257186023,
+    "global_hausdorff": 0.10941503543826243,
+    "global_chamfer": 0.04394603303348457,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0043_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01470174441814842,
+    "global_hausdorff": 0.14420879063299724,
+    "global_chamfer": 0.04868694960353358,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0044_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.016005363875249642,
+    "global_hausdorff": 0.14695652408387302,
+    "global_chamfer": 0.05373676681034582,
+    "global_artifacts": 54
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0045_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014126362667792054,
+    "global_hausdorff": 0.10883962597444324,
+    "global_chamfer": 0.04129347862838756,
+    "global_artifacts": 47
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0046_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013885123824080955,
+    "global_hausdorff": 0.14133504969274868,
+    "global_chamfer": 0.04542239667269655,
+    "global_artifacts": 55
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0047_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014613551572156998,
+    "global_hausdorff": 0.09825757243449572,
+    "global_chamfer": 0.04069720329821231,
+    "global_artifacts": 45
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0048_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014125605102427581,
+    "global_hausdorff": 0.10360220494825453,
+    "global_chamfer": 0.04087608028966869,
+    "global_artifacts": 31
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0049_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015127519007745581,
+    "global_hausdorff": 0.17407301704023967,
+    "global_chamfer": 0.052660042840498175,
+    "global_artifacts": 30
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0050_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01475620128554361,
+    "global_hausdorff": 0.1496779160509929,
+    "global_chamfer": 0.051060103511919246,
+    "global_artifacts": 30
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0051_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014705629243681717,
+    "global_hausdorff": 0.12118298293253855,
+    "global_chamfer": 0.047085998239138796,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0052_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014421586123878668,
+    "global_hausdorff": 0.08775095839678271,
+    "global_chamfer": 0.037225997677583465,
+    "global_artifacts": 40
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0053_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014218360405659932,
+    "global_hausdorff": 0.0826503581082607,
+    "global_chamfer": 0.03682842991877165,
+    "global_artifacts": 37
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0054_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015387051536412667,
+    "global_hausdorff": 0.13160461704990767,
+    "global_chamfer": 0.05004749861769361,
+    "global_artifacts": 30
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0055_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.0153900868878711,
+    "global_hausdorff": 0.1749799363210838,
+    "global_chamfer": 0.05747608309844814,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0056_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014681196378299274,
+    "global_hausdorff": 0.1344671586173195,
+    "global_chamfer": 0.04951919222945182,
+    "global_artifacts": 34
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0057_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014392809765122956,
+    "global_hausdorff": 0.1461692937239111,
+    "global_chamfer": 0.047422147165033825,
+    "global_artifacts": 28
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0058_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.01592426486075624,
+    "global_hausdorff": 0.12192078231778558,
+    "global_chamfer": 0.04828513581090061,
+    "global_artifacts": 23
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0059_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015161008961710807,
+    "global_hausdorff": 0.14296275159194574,
+    "global_chamfer": 0.050275999280823505,
+    "global_artifacts": 34
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0060_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015181447422065193,
+    "global_hausdorff": 0.10235089657035099,
+    "global_chamfer": 0.04279188673783735,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0061_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015298237771146117,
+    "global_hausdorff": 0.15917935746697978,
+    "global_chamfer": 0.053262302504655905,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0062_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01405544780901942,
+    "global_hausdorff": 0.10259528619834253,
+    "global_chamfer": 0.04089594083783866,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0063_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014541361783592574,
+    "global_hausdorff": 0.12908679384381683,
+    "global_chamfer": 0.04532790772289971,
+    "global_artifacts": 37
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0064_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014344793870216012,
+    "global_hausdorff": 0.09422926543495104,
+    "global_chamfer": 0.03931693550608857,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0065_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014767856101505807,
+    "global_hausdorff": 0.08184070009105625,
+    "global_chamfer": 0.03895158762742523,
+    "global_artifacts": 28
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0066_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014770284782857144,
+    "global_hausdorff": 0.09609452401824899,
+    "global_chamfer": 0.04079389994772864,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0067_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014634943907397719,
+    "global_hausdorff": 0.1434769617346214,
+    "global_chamfer": 0.04854909123312342,
+    "global_artifacts": 51
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0068_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014927455822188006,
+    "global_hausdorff": 0.13499220703394518,
+    "global_chamfer": 0.051437715401775934,
+    "global_artifacts": 40
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0069_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015021521555785327,
+    "global_hausdorff": 0.10719300303465071,
+    "global_chamfer": 0.0453775832247021,
+    "global_artifacts": 44
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0070_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013684132792396794,
+    "global_hausdorff": 0.10388280212178169,
+    "global_chamfer": 0.03992213324448071,
+    "global_artifacts": 46
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0071_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015559761997589423,
+    "global_hausdorff": 0.16006644651205737,
+    "global_chamfer": 0.05339952038176844,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0072_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014215507927307757,
+    "global_hausdorff": 0.13108703710642958,
+    "global_chamfer": 0.04671278781823169,
+    "global_artifacts": 45
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0073_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01517531083412154,
+    "global_hausdorff": 0.1077536783876653,
+    "global_chamfer": 0.04337776090804475,
+    "global_artifacts": 24
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0074_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014419242396941883,
+    "global_hausdorff": 0.08998121418857502,
+    "global_chamfer": 0.037970783313975714,
+    "global_artifacts": 59
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0075_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015495293386170492,
+    "global_hausdorff": 0.16091649034111086,
+    "global_chamfer": 0.05632249993170147,
+    "global_artifacts": 41
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0076_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.0157261182851963,
+    "global_hausdorff": 0.14633973158264815,
+    "global_chamfer": 0.05293478349981822,
+    "global_artifacts": 34
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0077_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014304584869870476,
+    "global_hausdorff": 0.1377445945419693,
+    "global_chamfer": 0.04655953218793174,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0078_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01369893613543643,
+    "global_hausdorff": 0.14792492912716426,
+    "global_chamfer": 0.04570091922236538,
+    "global_artifacts": 47
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0079_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014651499056920338,
+    "global_hausdorff": 0.112581405449185,
+    "global_chamfer": 0.04401074835435208,
+    "global_artifacts": 25
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0080_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015145700410046745,
+    "global_hausdorff": 0.1232874826545422,
+    "global_chamfer": 0.046818815915254754,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0081_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013970831702803187,
+    "global_hausdorff": 0.06939299416473671,
+    "global_chamfer": 0.033381141959292183,
+    "global_artifacts": 28
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0082_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013379964671149198,
+    "global_hausdorff": 0.09374228696142389,
+    "global_chamfer": 0.0357143415501625,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0083_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015448147928556626,
+    "global_hausdorff": 0.16385439344273015,
+    "global_chamfer": 0.05575756564458005,
+    "global_artifacts": 51
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0084_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01575140574481041,
+    "global_hausdorff": 0.15580297843697827,
+    "global_chamfer": 0.0543323615760348,
+    "global_artifacts": 31
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0085_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014596389695451547,
+    "global_hausdorff": 0.10497087407777622,
+    "global_chamfer": 0.041610296962273544,
+    "global_artifacts": 42
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0086_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.015236039145899032,
+    "global_hausdorff": 0.15589866726134158,
+    "global_chamfer": 0.05309758523621964,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0087_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014516654076931545,
+    "global_hausdorff": 0.10139664621519018,
+    "global_chamfer": 0.04188577251142523,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0088_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015361544741426468,
+    "global_hausdorff": 0.13887520985869972,
+    "global_chamfer": 0.04889588800266244,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0089_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015441240089196348,
+    "global_hausdorff": 0.16298811855298656,
+    "global_chamfer": 0.055987415192563596,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0090_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015274220272440698,
+    "global_hausdorff": 0.10297308744233771,
+    "global_chamfer": 0.04531351868126751,
+    "global_artifacts": 44
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0091_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.013894922984542242,
+    "global_hausdorff": 0.16244523837814118,
+    "global_chamfer": 0.05020510054036362,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0092_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014685302362685417,
+    "global_hausdorff": 0.15054172118670028,
+    "global_chamfer": 0.047444677999845496,
+    "global_artifacts": 22
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0093_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01410032025336061,
+    "global_hausdorff": 0.10191226180145388,
+    "global_chamfer": 0.040905644496287065,
+    "global_artifacts": 34
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0094_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.015748480134802182,
+    "global_hausdorff": 0.14885138690635044,
+    "global_chamfer": 0.051023701987781125,
+    "global_artifacts": 27
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0095_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014518805705048607,
+    "global_hausdorff": 0.11041956176164154,
+    "global_chamfer": 0.04376786289094671,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0096_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015284837709915877,
+    "global_hausdorff": 0.09796364759628648,
+    "global_chamfer": 0.0413804776702831,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0097_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015186255810521514,
+    "global_hausdorff": 0.12457699111131795,
+    "global_chamfer": 0.048151480193068794,
+    "global_artifacts": 30
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0098_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014977131565129727,
+    "global_hausdorff": 0.08518197109732521,
+    "global_chamfer": 0.0379750592446849,
+    "global_artifacts": 26
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0099_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014140675950812304,
+    "global_hausdorff": 0.1261182990546686,
+    "global_chamfer": 0.04450793009235335,
+    "global_artifacts": 30
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0100_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013709513349341363,
+    "global_hausdorff": 0.12488685682669591,
+    "global_chamfer": 0.043355758548775755,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0101_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014254960712218295,
+    "global_hausdorff": 0.14156776473284668,
+    "global_chamfer": 0.048990856293736826,
+    "global_artifacts": 26
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0102_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014722186760151777,
+    "global_hausdorff": 0.08560192979639185,
+    "global_chamfer": 0.037720694603471654,
+    "global_artifacts": 55
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0103_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01423490961159328,
+    "global_hausdorff": 0.07943205579916271,
+    "global_chamfer": 0.036430809162059805,
+    "global_artifacts": 26
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0104_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01439545764197771,
+    "global_hausdorff": 0.1038992650111855,
+    "global_chamfer": 0.0411888148761923,
+    "global_artifacts": 28
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0105_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014313525930572566,
+    "global_hausdorff": 0.12107678757927275,
+    "global_chamfer": 0.04331204316143878,
+    "global_artifacts": 55
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0106_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014211312541761835,
+    "global_hausdorff": 0.1139404734658122,
+    "global_chamfer": 0.04321102659849475,
+    "global_artifacts": 30
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0107_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01476197656659594,
+    "global_hausdorff": 0.11794518495530032,
+    "global_chamfer": 0.044744707279035546,
+    "global_artifacts": 49
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0108_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014876468555050827,
+    "global_hausdorff": 0.08789818238385898,
+    "global_chamfer": 0.039867698494677306,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0109_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014589317298057666,
+    "global_hausdorff": 0.16690350967416845,
+    "global_chamfer": 0.051124602527461434,
+    "global_artifacts": 54
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0110_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01560280913985398,
+    "global_hausdorff": 0.13381915161767244,
+    "global_chamfer": 0.048978174540967784,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0111_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014633976464585004,
+    "global_hausdorff": 0.11730577645931274,
+    "global_chamfer": 0.043727051506204956,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0112_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014886063546395592,
+    "global_hausdorff": 0.10440734809617976,
+    "global_chamfer": 0.042067132429763864,
+    "global_artifacts": 34
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0113_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013990943714625911,
+    "global_hausdorff": 0.14633393518466922,
+    "global_chamfer": 0.049184894628632146,
+    "global_artifacts": 41
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0114_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015125647859980938,
+    "global_hausdorff": 0.11979449529727475,
+    "global_chamfer": 0.04589890422465066,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0115_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015388678152995456,
+    "global_hausdorff": 0.10630294030398929,
+    "global_chamfer": 0.043865864431717146,
+    "global_artifacts": 42
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0116_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.0144161482613805,
+    "global_hausdorff": 0.12848425465874008,
+    "global_chamfer": 0.0480025648398019,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0117_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013468010692162954,
+    "global_hausdorff": 0.0850955958873038,
+    "global_chamfer": 0.03664243911534601,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0118_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013984266161761887,
+    "global_hausdorff": 0.1525375830100465,
+    "global_chamfer": 0.04504491531336126,
+    "global_artifacts": 51
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0119_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014556357378484068,
+    "global_hausdorff": 0.13599778272174964,
+    "global_chamfer": 0.04708796000326111,
+    "global_artifacts": 49
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0120_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015501009976170679,
+    "global_hausdorff": 0.1450588105043299,
+    "global_chamfer": 0.0488053650216166,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0121_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01588188419444208,
+    "global_hausdorff": 0.14440621775934237,
+    "global_chamfer": 0.052714183976379524,
+    "global_artifacts": 27
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0122_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014590157963921362,
+    "global_hausdorff": 0.13580982733152142,
+    "global_chamfer": 0.04765500229633188,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0123_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015070985593460883,
+    "global_hausdorff": 0.10877064449656135,
+    "global_chamfer": 0.0442265351086466,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0124_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015403493517007339,
+    "global_hausdorff": 0.12989545349876663,
+    "global_chamfer": 0.04909741985292417,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0125_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014959021112035896,
+    "global_hausdorff": 0.13477466344697633,
+    "global_chamfer": 0.04634855783668142,
+    "global_artifacts": 42
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0126_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014514777891488298,
+    "global_hausdorff": 0.10374140806444158,
+    "global_chamfer": 0.042247414991647025,
+    "global_artifacts": 37
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0127_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014381576443264212,
+    "global_hausdorff": 0.1051626876462093,
+    "global_chamfer": 0.0407934738221955,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0128_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01451947880497817,
+    "global_hausdorff": 0.11719645875407741,
+    "global_chamfer": 0.04428546547792925,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0129_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013675029292200644,
+    "global_hausdorff": 0.08415089005409596,
+    "global_chamfer": 0.036394349228846934,
+    "global_artifacts": 51
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0130_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01449644243666479,
+    "global_hausdorff": 0.1279309614013903,
+    "global_chamfer": 0.04627024219128327,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0131_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01376895914969328,
+    "global_hausdorff": 0.08517091942176955,
+    "global_chamfer": 0.03670981373681978,
+    "global_artifacts": 26
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0132_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014445507021943063,
+    "global_hausdorff": 0.1762178731752776,
+    "global_chamfer": 0.05410073648634885,
+    "global_artifacts": 29
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0133_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014831399599348028,
+    "global_hausdorff": 0.12574716691125845,
+    "global_chamfer": 0.04723743636977587,
+    "global_artifacts": 34
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0134_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015490273009981253,
+    "global_hausdorff": 0.13744631284242875,
+    "global_chamfer": 0.0530958962105386,
+    "global_artifacts": 30
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0135_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014743531824322607,
+    "global_hausdorff": 0.10156958997703477,
+    "global_chamfer": 0.040994025789261174,
+    "global_artifacts": 34
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0136_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014593930080472496,
+    "global_hausdorff": 0.11642120609784672,
+    "global_chamfer": 0.04393674452893637,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0137_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01407327985700136,
+    "global_hausdorff": 0.10333000484983583,
+    "global_chamfer": 0.04036852162241051,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0138_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014452416804529841,
+    "global_hausdorff": 0.15390139136596523,
+    "global_chamfer": 0.05102663362923851,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0139_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01469336935962219,
+    "global_hausdorff": 0.10416814827865659,
+    "global_chamfer": 0.041340914951334684,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0140_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014945823897087367,
+    "global_hausdorff": 0.1133243340498408,
+    "global_chamfer": 0.04384663227171315,
+    "global_artifacts": 26
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0141_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014696345144562169,
+    "global_hausdorff": 0.1040858897038271,
+    "global_chamfer": 0.04272874359433599,
+    "global_artifacts": 47
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0142_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01420484472127974,
+    "global_hausdorff": 0.10359916946533781,
+    "global_chamfer": 0.04012337267837718,
+    "global_artifacts": 43
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0143_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014483210984387178,
+    "global_hausdorff": 0.1103758647517179,
+    "global_chamfer": 0.0429252424349449,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0144_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013867567983625463,
+    "global_hausdorff": 0.08019284174916808,
+    "global_chamfer": 0.036902144631749,
+    "global_artifacts": 29
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0145_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014966958219521988,
+    "global_hausdorff": 0.09799885311401399,
+    "global_chamfer": 0.042903895322501724,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0146_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01444935135100361,
+    "global_hausdorff": 0.10761490696658726,
+    "global_chamfer": 0.04279342270816729,
+    "global_artifacts": 43
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0147_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015577284411333214,
+    "global_hausdorff": 0.13651767306603038,
+    "global_chamfer": 0.05150193792971257,
+    "global_artifacts": 31
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0148_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01511920837728546,
+    "global_hausdorff": 0.1473584903584633,
+    "global_chamfer": 0.04960830343575095,
+    "global_artifacts": 27
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0149_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014788885007454521,
+    "global_hausdorff": 0.1054251193808136,
+    "global_chamfer": 0.04116033451480111,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0150_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014506754598362134,
+    "global_hausdorff": 0.0858120648582967,
+    "global_chamfer": 0.03856352763889696,
+    "global_artifacts": 26
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0151_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014555962167256175,
+    "global_hausdorff": 0.06488715680274253,
+    "global_chamfer": 0.03229730831953172,
+    "global_artifacts": 42
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0152_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014836595930620934,
+    "global_hausdorff": 0.1030284686257012,
+    "global_chamfer": 0.04112402548875956,
+    "global_artifacts": 27
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0153_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014726646809299566,
+    "global_hausdorff": 0.15485263667054622,
+    "global_chamfer": 0.049077518769421534,
+    "global_artifacts": 43
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0154_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014517400367690794,
+    "global_hausdorff": 0.12296396118142316,
+    "global_chamfer": 0.04463034817860049,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0155_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013280276098058886,
+    "global_hausdorff": 0.08162361777294799,
+    "global_chamfer": 0.03398015106304766,
+    "global_artifacts": 42
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0156_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014389824835275178,
+    "global_hausdorff": 0.12799754755636694,
+    "global_chamfer": 0.04801064681586964,
+    "global_artifacts": 40
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0157_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.0149033298255475,
+    "global_hausdorff": 0.13249466588436498,
+    "global_chamfer": 0.05071312956032223,
+    "global_artifacts": 34
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0158_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014951042876027899,
+    "global_hausdorff": 0.1130044671010712,
+    "global_chamfer": 0.045824972137894326,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0159_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015171713500148636,
+    "global_hausdorff": 0.16989892882930951,
+    "global_chamfer": 0.050723805367788116,
+    "global_artifacts": 42
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0160_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014711866303328835,
+    "global_hausdorff": 0.15860845819345323,
+    "global_chamfer": 0.05092550233591929,
+    "global_artifacts": 44
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0161_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01437142589712281,
+    "global_hausdorff": 0.10467414495043892,
+    "global_chamfer": 0.0425039051223144,
+    "global_artifacts": 40
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0162_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015173557879463045,
+    "global_hausdorff": 0.12654212673574766,
+    "global_chamfer": 0.046619240218663156,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0163_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01472201886598629,
+    "global_hausdorff": 0.10490628751322832,
+    "global_chamfer": 0.04317653407696555,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0164_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014543268743761823,
+    "global_hausdorff": 0.10537991224915264,
+    "global_chamfer": 0.04209067719910136,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0165_lidar_classes.ply",
+    "n_segments": 9,
+    "global_rmse": 0.015057411317411902,
+    "global_hausdorff": 0.14319010817210795,
+    "global_chamfer": 0.048365897888374386,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0166_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01430987985603349,
+    "global_hausdorff": 0.08991284029987864,
+    "global_chamfer": 0.03931410813722763,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0167_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.0145187911933598,
+    "global_hausdorff": 0.09253383885825323,
+    "global_chamfer": 0.038628517887323105,
+    "global_artifacts": 44
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0168_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015406794692139913,
+    "global_hausdorff": 0.15882779934566332,
+    "global_chamfer": 0.05490138663099889,
+    "global_artifacts": 42
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0169_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01441084038078177,
+    "global_hausdorff": 0.07751661432072147,
+    "global_chamfer": 0.03589627949024839,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0170_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014203155919061445,
+    "global_hausdorff": 0.10937343650633397,
+    "global_chamfer": 0.04267948510928497,
+    "global_artifacts": 60
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0171_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013731949326192651,
+    "global_hausdorff": 0.07944269636350541,
+    "global_chamfer": 0.03565632579663201,
+    "global_artifacts": 44
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0172_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01515014828190315,
+    "global_hausdorff": 0.11874952136019955,
+    "global_chamfer": 0.04520948513460141,
+    "global_artifacts": 34
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0173_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015400725181349778,
+    "global_hausdorff": 0.15738371862156267,
+    "global_chamfer": 0.05247940657016851,
+    "global_artifacts": 42
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0174_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014334704513166598,
+    "global_hausdorff": 0.08920002895375523,
+    "global_chamfer": 0.03788376462531687,
+    "global_artifacts": 47
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0175_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014000488006574907,
+    "global_hausdorff": 0.08768654733041473,
+    "global_chamfer": 0.03640518954981409,
+    "global_artifacts": 48
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0176_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01483714139668551,
+    "global_hausdorff": 0.08945666474771435,
+    "global_chamfer": 0.03916102994870248,
+    "global_artifacts": 31
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0177_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015159838362565094,
+    "global_hausdorff": 0.12247947752972353,
+    "global_chamfer": 0.04650279931729001,
+    "global_artifacts": 27
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0178_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014544353081918851,
+    "global_hausdorff": 0.10124022075427985,
+    "global_chamfer": 0.04165897953136653,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0179_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014724444234952673,
+    "global_hausdorff": 0.13529501661997975,
+    "global_chamfer": 0.046757097167066136,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0180_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014362297063054868,
+    "global_hausdorff": 0.07934924190534036,
+    "global_chamfer": 0.037265542309654766,
+    "global_artifacts": 42
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0181_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013682837931466093,
+    "global_hausdorff": 0.14349843732333825,
+    "global_chamfer": 0.044915601804135674,
+    "global_artifacts": 40
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0182_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014725710058720826,
+    "global_hausdorff": 0.09802288517946214,
+    "global_chamfer": 0.041707520231128864,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0183_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01553466159675685,
+    "global_hausdorff": 0.16884569308485722,
+    "global_chamfer": 0.05727209855290607,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0184_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014784751049867158,
+    "global_hausdorff": 0.13125507134358277,
+    "global_chamfer": 0.04918113672854177,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0185_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.016198023535558152,
+    "global_hausdorff": 0.14302562566878743,
+    "global_chamfer": 0.05571231732314639,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0186_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014849769955539337,
+    "global_hausdorff": 0.13890686608720515,
+    "global_chamfer": 0.04685517899910521,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0187_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015580983031757105,
+    "global_hausdorff": 0.1427725581412657,
+    "global_chamfer": 0.05319272998790325,
+    "global_artifacts": 40
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0188_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014364467371957389,
+    "global_hausdorff": 0.12132733805026608,
+    "global_chamfer": 0.043494563682162674,
+    "global_artifacts": 43
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0189_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014989755875362509,
+    "global_hausdorff": 0.11299706316381755,
+    "global_chamfer": 0.043247857687154126,
+    "global_artifacts": 26
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0190_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01562150301646652,
+    "global_hausdorff": 0.14362505828046795,
+    "global_chamfer": 0.05028728655053345,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0191_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014830983103374433,
+    "global_hausdorff": 0.09291909371401946,
+    "global_chamfer": 0.04004818830783849,
+    "global_artifacts": 31
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0192_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014488811943794498,
+    "global_hausdorff": 0.1295639714503838,
+    "global_chamfer": 0.04578248090820935,
+    "global_artifacts": 41
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0193_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014499885978100598,
+    "global_hausdorff": 0.10310553072458402,
+    "global_chamfer": 0.040780891149404315,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0194_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014582338744520756,
+    "global_hausdorff": 0.08247345173633686,
+    "global_chamfer": 0.03673189583384746,
+    "global_artifacts": 31
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0195_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015228221225814617,
+    "global_hausdorff": 0.12398133439465102,
+    "global_chamfer": 0.04942707342743574,
+    "global_artifacts": 43
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0196_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014171972921642554,
+    "global_hausdorff": 0.07297919026754092,
+    "global_chamfer": 0.03439300351950162,
+    "global_artifacts": 28
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0197_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014476569982402803,
+    "global_hausdorff": 0.13910132062727326,
+    "global_chamfer": 0.04722599414640308,
+    "global_artifacts": 43
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0198_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01478819727643047,
+    "global_hausdorff": 0.10133903009064105,
+    "global_chamfer": 0.041208958713346844,
+    "global_artifacts": 27
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0199_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014859667207232434,
+    "global_hausdorff": 0.12848822868800658,
+    "global_chamfer": 0.048441691950879405,
+    "global_artifacts": 26
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0200_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013944557253044242,
+    "global_hausdorff": 0.08585258710074292,
+    "global_chamfer": 0.03638855928882895,
+    "global_artifacts": 42
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0201_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014216488800367804,
+    "global_hausdorff": 0.1064631396445911,
+    "global_chamfer": 0.04245709004467455,
+    "global_artifacts": 57
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0202_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014038062078629194,
+    "global_hausdorff": 0.1306808115811504,
+    "global_chamfer": 0.045068284364907195,
+    "global_artifacts": 30
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0203_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014655570645162024,
+    "global_hausdorff": 0.11431809189763037,
+    "global_chamfer": 0.042616150450285335,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0204_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015526343881688505,
+    "global_hausdorff": 0.1080769543700691,
+    "global_chamfer": 0.045637571753533446,
+    "global_artifacts": 31
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0205_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01409673903781397,
+    "global_hausdorff": 0.11886029717414613,
+    "global_chamfer": 0.044971861324203104,
+    "global_artifacts": 41
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0206_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014766268752503307,
+    "global_hausdorff": 0.08736514392754578,
+    "global_chamfer": 0.03843849469540541,
+    "global_artifacts": 41
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0207_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014271619514025736,
+    "global_hausdorff": 0.09469902497043789,
+    "global_chamfer": 0.03927172457389059,
+    "global_artifacts": 45
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0208_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014272984826072031,
+    "global_hausdorff": 0.13915995843516438,
+    "global_chamfer": 0.048333427870578205,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0209_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015069502033051584,
+    "global_hausdorff": 0.13374880188442728,
+    "global_chamfer": 0.04965499548120693,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0210_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014993954030177259,
+    "global_hausdorff": 0.09525909857759642,
+    "global_chamfer": 0.04090141331175896,
+    "global_artifacts": 29
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0211_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015166903520220846,
+    "global_hausdorff": 0.1453588861951568,
+    "global_chamfer": 0.04839074729276244,
+    "global_artifacts": 43
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0212_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014711841815229533,
+    "global_hausdorff": 0.10765678874232346,
+    "global_chamfer": 0.04259845998152141,
+    "global_artifacts": 37
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0213_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013897894883494808,
+    "global_hausdorff": 0.07687498713673636,
+    "global_chamfer": 0.035225995413767315,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0214_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014803167356664105,
+    "global_hausdorff": 0.10715033040450589,
+    "global_chamfer": 0.04173160577037349,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0215_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014189478618961488,
+    "global_hausdorff": 0.10301098796389774,
+    "global_chamfer": 0.04071644391470901,
+    "global_artifacts": 34
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0216_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014747486097188513,
+    "global_hausdorff": 0.11848053602464241,
+    "global_chamfer": 0.04624850228178749,
+    "global_artifacts": 37
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0217_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014445523539978302,
+    "global_hausdorff": 0.09199413874881508,
+    "global_chamfer": 0.03922223879892807,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0218_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014909193793689416,
+    "global_hausdorff": 0.14126096746952416,
+    "global_chamfer": 0.05023276899033515,
+    "global_artifacts": 47
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0219_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01403612845940029,
+    "global_hausdorff": 0.07131209935271819,
+    "global_chamfer": 0.03400990514736413,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0220_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013988379668187481,
+    "global_hausdorff": 0.08150392733930159,
+    "global_chamfer": 0.03664634367153574,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0221_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014527611192814097,
+    "global_hausdorff": 0.11824365709538806,
+    "global_chamfer": 0.04212339833462,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0222_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014802137965302923,
+    "global_hausdorff": 0.11335168086697851,
+    "global_chamfer": 0.04230070758509472,
+    "global_artifacts": 40
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0223_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.01586604519136758,
+    "global_hausdorff": 0.109862244398115,
+    "global_chamfer": 0.04617686609597131,
+    "global_artifacts": 27
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0224_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.013948752611923736,
+    "global_hausdorff": 0.08261548708902297,
+    "global_chamfer": 0.03646147506506297,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0225_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01472982533374863,
+    "global_hausdorff": 0.09927585791867143,
+    "global_chamfer": 0.042623697151133996,
+    "global_artifacts": 23
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0226_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014664833859535252,
+    "global_hausdorff": 0.10348750689072381,
+    "global_chamfer": 0.04097547278859423,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0227_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013944668893709657,
+    "global_hausdorff": 0.10543583377422147,
+    "global_chamfer": 0.04038926435418883,
+    "global_artifacts": 40
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0228_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013903855659725834,
+    "global_hausdorff": 0.14262358509715156,
+    "global_chamfer": 0.04658218722694919,
+    "global_artifacts": 41
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0229_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015127661663739429,
+    "global_hausdorff": 0.1836164164570075,
+    "global_chamfer": 0.054509711758820134,
+    "global_artifacts": 54
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0230_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014492188411002433,
+    "global_hausdorff": 0.09808290891124664,
+    "global_chamfer": 0.0407749794971437,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0231_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014920523889361131,
+    "global_hausdorff": 0.08400964406182458,
+    "global_chamfer": 0.038688802515116395,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0232_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014426137741774297,
+    "global_hausdorff": 0.14173850724131662,
+    "global_chamfer": 0.05062775022899137,
+    "global_artifacts": 46
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0233_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014352155132700427,
+    "global_hausdorff": 0.1572594855219206,
+    "global_chamfer": 0.04987763942257259,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0234_lidar_classes.ply",
+    "n_segments": 9,
+    "global_rmse": 0.01415408663682148,
+    "global_hausdorff": 0.07113232781932068,
+    "global_chamfer": 0.033093424818334036,
+    "global_artifacts": 41
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0235_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013836490033103952,
+    "global_hausdorff": 0.0730533182900078,
+    "global_chamfer": 0.03372566665450402,
+    "global_artifacts": 27
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0236_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013824910644655788,
+    "global_hausdorff": 0.1078406916950203,
+    "global_chamfer": 0.04185992700802852,
+    "global_artifacts": 28
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0237_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014829785841278574,
+    "global_hausdorff": 0.14354456262310264,
+    "global_chamfer": 0.04861503162745827,
+    "global_artifacts": 23
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0238_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014540816368807418,
+    "global_hausdorff": 0.09796127110275961,
+    "global_chamfer": 0.04030587909711101,
+    "global_artifacts": 26
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0239_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014661415328500916,
+    "global_hausdorff": 0.13100942480258598,
+    "global_chamfer": 0.045675653135587836,
+    "global_artifacts": 29
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0240_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01547508931557554,
+    "global_hausdorff": 0.14752594407536176,
+    "global_chamfer": 0.05172903932137051,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0241_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014041083259751572,
+    "global_hausdorff": 0.08122653684816192,
+    "global_chamfer": 0.035148269514551266,
+    "global_artifacts": 43
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0242_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013979940796095327,
+    "global_hausdorff": 0.12938847634600667,
+    "global_chamfer": 0.045457381996336,
+    "global_artifacts": 42
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0243_lidar_classes.ply",
+    "n_segments": 9,
+    "global_rmse": 0.015024552419410352,
+    "global_hausdorff": 0.09652995616468296,
+    "global_chamfer": 0.04149577795926878,
+    "global_artifacts": 24
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0244_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.015039989139738039,
+    "global_hausdorff": 0.13146320350692764,
+    "global_chamfer": 0.04625646255349351,
+    "global_artifacts": 37
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0245_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.013558419278498202,
+    "global_hausdorff": 0.09570020811024631,
+    "global_chamfer": 0.038456358468083346,
+    "global_artifacts": 49
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0246_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014666558542559239,
+    "global_hausdorff": 0.11708638726240983,
+    "global_chamfer": 0.04402682933791269,
+    "global_artifacts": 31
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0247_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014526850514360297,
+    "global_hausdorff": 0.10379361535283554,
+    "global_chamfer": 0.04269684093260667,
+    "global_artifacts": 34
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0248_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014954838693894613,
+    "global_hausdorff": 0.13099208620197358,
+    "global_chamfer": 0.045611106057845574,
+    "global_artifacts": 30
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0249_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01475686721308637,
+    "global_hausdorff": 0.1375004605012923,
+    "global_chamfer": 0.049410143318116356,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0250_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015056527023400825,
+    "global_hausdorff": 0.09336143406055929,
+    "global_chamfer": 0.04057413878536069,
+    "global_artifacts": 40
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0251_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014609883389553104,
+    "global_hausdorff": 0.15756339720101428,
+    "global_chamfer": 0.04972825720159205,
+    "global_artifacts": 37
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0252_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014738388592382608,
+    "global_hausdorff": 0.11872506465813469,
+    "global_chamfer": 0.0458230059210308,
+    "global_artifacts": 49
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0253_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01523268125536576,
+    "global_hausdorff": 0.15489570118847415,
+    "global_chamfer": 0.05012265594009865,
+    "global_artifacts": 31
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0254_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.015076583133464399,
+    "global_hausdorff": 0.16094636921546907,
+    "global_chamfer": 0.04905031837795521,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0255_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014572269974646095,
+    "global_hausdorff": 0.08066283167952326,
+    "global_chamfer": 0.03632889241138834,
+    "global_artifacts": 37
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0256_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01531864120895372,
+    "global_hausdorff": 0.13492271439968193,
+    "global_chamfer": 0.04875378553854507,
+    "global_artifacts": 29
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0257_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014363666259259318,
+    "global_hausdorff": 0.1260436407565101,
+    "global_chamfer": 0.04302035941479502,
+    "global_artifacts": 43
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0258_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014637710198107603,
+    "global_hausdorff": 0.14200784728441893,
+    "global_chamfer": 0.048326138457130616,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0259_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014061017619111297,
+    "global_hausdorff": 0.09294588472559255,
+    "global_chamfer": 0.03812809530068731,
+    "global_artifacts": 28
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0260_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014344585161632596,
+    "global_hausdorff": 0.1087961507121457,
+    "global_chamfer": 0.04368075817099643,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0261_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014525069262548885,
+    "global_hausdorff": 0.1492951543824102,
+    "global_chamfer": 0.049909681265539636,
+    "global_artifacts": 50
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0262_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014797598440305315,
+    "global_hausdorff": 0.0854178170999706,
+    "global_chamfer": 0.037841819614153775,
+    "global_artifacts": 37
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0263_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015009974574893585,
+    "global_hausdorff": 0.09903058114255699,
+    "global_chamfer": 0.04315962745149057,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0264_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014165171964910048,
+    "global_hausdorff": 0.1705714419720286,
+    "global_chamfer": 0.05110150909753455,
+    "global_artifacts": 29
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0265_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014278297224527668,
+    "global_hausdorff": 0.08463986925332426,
+    "global_chamfer": 0.03696921330934861,
+    "global_artifacts": 42
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0266_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014696985021741054,
+    "global_hausdorff": 0.12679793067375913,
+    "global_chamfer": 0.04807790613656384,
+    "global_artifacts": 31
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0267_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014986002553074652,
+    "global_hausdorff": 0.10851133615986679,
+    "global_chamfer": 0.044154751404184775,
+    "global_artifacts": 30
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0268_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015337491407307686,
+    "global_hausdorff": 0.16739102323248214,
+    "global_chamfer": 0.05510910291737817,
+    "global_artifacts": 29
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0269_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015004719668190857,
+    "global_hausdorff": 0.14527635326554067,
+    "global_chamfer": 0.050283696655796316,
+    "global_artifacts": 26
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0270_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.0142442322853179,
+    "global_hausdorff": 0.1066402009625297,
+    "global_chamfer": 0.04289510747698605,
+    "global_artifacts": 43
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0271_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01594119028675257,
+    "global_hausdorff": 0.17439866048310879,
+    "global_chamfer": 0.058707970572672755,
+    "global_artifacts": 42
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0272_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015474661050409943,
+    "global_hausdorff": 0.14714939167530136,
+    "global_chamfer": 0.05208063774973517,
+    "global_artifacts": 41
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0273_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014390756408979626,
+    "global_hausdorff": 0.13052231692572416,
+    "global_chamfer": 0.04271551170060483,
+    "global_artifacts": 51
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0274_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014453743895287714,
+    "global_hausdorff": 0.10139139290179017,
+    "global_chamfer": 0.04101797325099166,
+    "global_artifacts": 43
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0275_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01473267938399059,
+    "global_hausdorff": 0.10836420430669154,
+    "global_chamfer": 0.04297309671550491,
+    "global_artifacts": 47
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0276_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014651464394782059,
+    "global_hausdorff": 0.08608781447565533,
+    "global_chamfer": 0.038594887803626306,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0277_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015144505838102196,
+    "global_hausdorff": 0.1580138574196682,
+    "global_chamfer": 0.053170523240043836,
+    "global_artifacts": 30
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0278_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015374203831805376,
+    "global_hausdorff": 0.13289108244992143,
+    "global_chamfer": 0.04744071355881511,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0279_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.016588961016395423,
+    "global_hausdorff": 0.1514723854647077,
+    "global_chamfer": 0.055328788651228394,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0280_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.016186826860326273,
+    "global_hausdorff": 0.058046369776284225,
+    "global_chamfer": 0.03155920651188542,
+    "global_artifacts": 66
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0281_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015299523403911662,
+    "global_hausdorff": 0.1406062118808394,
+    "global_chamfer": 0.050242387296165036,
+    "global_artifacts": 31
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0282_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015314207114928886,
+    "global_hausdorff": 0.12031430818088946,
+    "global_chamfer": 0.04736517274216088,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0283_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014041443293400763,
+    "global_hausdorff": 0.08291225636875366,
+    "global_chamfer": 0.036682917005991036,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0284_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014279875333158991,
+    "global_hausdorff": 0.12758198032781093,
+    "global_chamfer": 0.046815219807835526,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0285_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014605341470423902,
+    "global_hausdorff": 0.11190584501743996,
+    "global_chamfer": 0.04400278313947162,
+    "global_artifacts": 34
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0286_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014534598683642548,
+    "global_hausdorff": 0.10299405863898056,
+    "global_chamfer": 0.04212970364228075,
+    "global_artifacts": 51
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0287_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01474620442149048,
+    "global_hausdorff": 0.11539215711550826,
+    "global_chamfer": 0.045407125264800695,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0288_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01407850776509669,
+    "global_hausdorff": 0.10880983409057353,
+    "global_chamfer": 0.04134211848299478,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0289_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014343128741367001,
+    "global_hausdorff": 0.10657580959124859,
+    "global_chamfer": 0.04200035571696948,
+    "global_artifacts": 44
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0290_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014035254557860134,
+    "global_hausdorff": 0.1040388824033193,
+    "global_chamfer": 0.042057477822448626,
+    "global_artifacts": 43
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0291_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013803342103415961,
+    "global_hausdorff": 0.07490970901767875,
+    "global_chamfer": 0.034453468230661075,
+    "global_artifacts": 30
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0292_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013177018590354505,
+    "global_hausdorff": 0.06820871297745956,
+    "global_chamfer": 0.031909369657089,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0293_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014523122715955654,
+    "global_hausdorff": 0.16107100444534603,
+    "global_chamfer": 0.04938844774929357,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0294_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014411534754902236,
+    "global_hausdorff": 0.11755741337020988,
+    "global_chamfer": 0.04516065166557891,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0295_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015159743461859724,
+    "global_hausdorff": 0.145256612985069,
+    "global_chamfer": 0.05114110911351794,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0296_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014649837593575406,
+    "global_hausdorff": 0.13422312819170165,
+    "global_chamfer": 0.045992241121741384,
+    "global_artifacts": 49
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0297_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015157486686000907,
+    "global_hausdorff": 0.11785176510129487,
+    "global_chamfer": 0.046877541950936644,
+    "global_artifacts": 42
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0298_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014447929388071825,
+    "global_hausdorff": 0.09638496774743353,
+    "global_chamfer": 0.04139531040337988,
+    "global_artifacts": 29
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0299_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014251584915712474,
+    "global_hausdorff": 0.15033194384557247,
+    "global_chamfer": 0.04786600895818275,
+    "global_artifacts": 62
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0300_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015318933074715695,
+    "global_hausdorff": 0.11728218165522868,
+    "global_chamfer": 0.04578881591456804,
+    "global_artifacts": 45
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0301_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014413893652467239,
+    "global_hausdorff": 0.14839983131159615,
+    "global_chamfer": 0.05002174398818872,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0302_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014293538771769027,
+    "global_hausdorff": 0.09458270068357105,
+    "global_chamfer": 0.039964340666582034,
+    "global_artifacts": 29
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0303_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01624094067857471,
+    "global_hausdorff": 0.13603159785157123,
+    "global_chamfer": 0.052859624705254606,
+    "global_artifacts": 41
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0304_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01522881249700524,
+    "global_hausdorff": 0.15938355220994063,
+    "global_chamfer": 0.05145479750714103,
+    "global_artifacts": 51
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0305_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013872616132329391,
+    "global_hausdorff": 0.11773837265957326,
+    "global_chamfer": 0.04153117477858179,
+    "global_artifacts": 37
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0306_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014170410985728037,
+    "global_hausdorff": 0.14580712544486954,
+    "global_chamfer": 0.04819220474992697,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0307_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015012240150596795,
+    "global_hausdorff": 0.1037442890398804,
+    "global_chamfer": 0.04346701767140382,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0308_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01411959168853308,
+    "global_hausdorff": 0.08988662024725672,
+    "global_chamfer": 0.03895084327417628,
+    "global_artifacts": 31
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0309_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013846288929278232,
+    "global_hausdorff": 0.06876961485776688,
+    "global_chamfer": 0.03372249422690451,
+    "global_artifacts": 26
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0310_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014639632940486114,
+    "global_hausdorff": 0.09168987127639928,
+    "global_chamfer": 0.04015772372574774,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0311_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014209170295114738,
+    "global_hausdorff": 0.08441798585772854,
+    "global_chamfer": 0.039766579617103726,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0312_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01379303913680215,
+    "global_hausdorff": 0.09799225467888066,
+    "global_chamfer": 0.038705326444237485,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0313_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014563185064294397,
+    "global_hausdorff": 0.11574084569739995,
+    "global_chamfer": 0.043708899760409065,
+    "global_artifacts": 43
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0314_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014685854701119246,
+    "global_hausdorff": 0.15957567952611268,
+    "global_chamfer": 0.04930081428665589,
+    "global_artifacts": 50
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0315_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.016008354940816382,
+    "global_hausdorff": 0.10650756104617193,
+    "global_chamfer": 0.044643202450216204,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0316_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014683713094758266,
+    "global_hausdorff": 0.14146336154355657,
+    "global_chamfer": 0.04912851389428714,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0317_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013773961844739191,
+    "global_hausdorff": 0.07750018417383879,
+    "global_chamfer": 0.03551694042031485,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0318_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01658620662022516,
+    "global_hausdorff": 0.19240414551578713,
+    "global_chamfer": 0.06685651588269836,
+    "global_artifacts": 27
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0319_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014941135415184544,
+    "global_hausdorff": 0.1571679444950794,
+    "global_chamfer": 0.0525730626153247,
+    "global_artifacts": 27
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0320_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014824333193264734,
+    "global_hausdorff": 0.11001091859432645,
+    "global_chamfer": 0.044417338726563865,
+    "global_artifacts": 53
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0321_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015609199955008816,
+    "global_hausdorff": 0.17693362254967634,
+    "global_chamfer": 0.056959537210956784,
+    "global_artifacts": 47
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0322_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014520258088234794,
+    "global_hausdorff": 0.1308374535169019,
+    "global_chamfer": 0.045456612228438914,
+    "global_artifacts": 27
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0323_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015311438575131429,
+    "global_hausdorff": 0.11707172884201288,
+    "global_chamfer": 0.04452409451593267,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0324_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014818361553919693,
+    "global_hausdorff": 0.12561854682545182,
+    "global_chamfer": 0.04658976512021609,
+    "global_artifacts": 51
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0325_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015108286809575544,
+    "global_hausdorff": 0.1391787328372807,
+    "global_chamfer": 0.04635408593791546,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0326_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015106597847662571,
+    "global_hausdorff": 0.1147479013860729,
+    "global_chamfer": 0.04357834389121935,
+    "global_artifacts": 30
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0327_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01302328570947308,
+    "global_hausdorff": 0.0809622145783837,
+    "global_chamfer": 0.03384250960312879,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0328_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014076692924157223,
+    "global_hausdorff": 0.09968956941565292,
+    "global_chamfer": 0.038328837589696324,
+    "global_artifacts": 40
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0329_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014507399637200649,
+    "global_hausdorff": 0.07694801181914027,
+    "global_chamfer": 0.03532426798535958,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0330_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014805262442315486,
+    "global_hausdorff": 0.11261567560455915,
+    "global_chamfer": 0.04229346295381626,
+    "global_artifacts": 43
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0331_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014862749940647893,
+    "global_hausdorff": 0.09323625765962029,
+    "global_chamfer": 0.041064121102271554,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0332_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014619232166352652,
+    "global_hausdorff": 0.1272774400392214,
+    "global_chamfer": 0.045838708229863925,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0333_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014853356279355185,
+    "global_hausdorff": 0.1050330672268386,
+    "global_chamfer": 0.04272761052995175,
+    "global_artifacts": 45
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0334_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014737960061606922,
+    "global_hausdorff": 0.090988511881389,
+    "global_chamfer": 0.04078515329989861,
+    "global_artifacts": 41
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0335_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014318007309481205,
+    "global_hausdorff": 0.10049131816129901,
+    "global_chamfer": 0.04079005802022517,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0336_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014617174302559936,
+    "global_hausdorff": 0.07320102288559288,
+    "global_chamfer": 0.03549353477873859,
+    "global_artifacts": 48
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0337_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015114386305979938,
+    "global_hausdorff": 0.1327313072952387,
+    "global_chamfer": 0.048343842693927205,
+    "global_artifacts": 41
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0338_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01519484701494393,
+    "global_hausdorff": 0.1925405640488366,
+    "global_chamfer": 0.05609532463177988,
+    "global_artifacts": 44
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0339_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01435389434602075,
+    "global_hausdorff": 0.09734129278764711,
+    "global_chamfer": 0.04049437520874517,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0340_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014544653104197027,
+    "global_hausdorff": 0.09504467577679966,
+    "global_chamfer": 0.04121812381037859,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0341_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013822837702259677,
+    "global_hausdorff": 0.09130127296432146,
+    "global_chamfer": 0.03835146695916857,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0342_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014800306459041849,
+    "global_hausdorff": 0.1310509350805463,
+    "global_chamfer": 0.04536910935645333,
+    "global_artifacts": 44
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0343_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013961390899315307,
+    "global_hausdorff": 0.1574175869539925,
+    "global_chamfer": 0.04896608508008354,
+    "global_artifacts": 34
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0344_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01501395357509737,
+    "global_hausdorff": 0.15044800809662479,
+    "global_chamfer": 0.04869284937365717,
+    "global_artifacts": 24
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0345_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014750574104382684,
+    "global_hausdorff": 0.13798893974488705,
+    "global_chamfer": 0.049867784232715845,
+    "global_artifacts": 52
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0346_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014444838774615854,
+    "global_hausdorff": 0.09979188696642191,
+    "global_chamfer": 0.03974611608022331,
+    "global_artifacts": 46
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0347_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013974153333928981,
+    "global_hausdorff": 0.12623256030360297,
+    "global_chamfer": 0.04523599312176667,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0348_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015963956017121285,
+    "global_hausdorff": 0.14904197471663114,
+    "global_chamfer": 0.05570752360221982,
+    "global_artifacts": 44
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0349_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014557347010403971,
+    "global_hausdorff": 0.08805737201887426,
+    "global_chamfer": 0.040058128373171645,
+    "global_artifacts": 31
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0350_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014306535509182134,
+    "global_hausdorff": 0.10875266782483356,
+    "global_chamfer": 0.04397223130931778,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0351_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014164272830392585,
+    "global_hausdorff": 0.12320553928480422,
+    "global_chamfer": 0.043199712438506364,
+    "global_artifacts": 26
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0352_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014822085757384916,
+    "global_hausdorff": 0.12622609969764237,
+    "global_chamfer": 0.04841606103144969,
+    "global_artifacts": 27
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0353_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014241376929927446,
+    "global_hausdorff": 0.1039428250466918,
+    "global_chamfer": 0.0411614014903204,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0354_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015098942156716129,
+    "global_hausdorff": 0.11477275340304617,
+    "global_chamfer": 0.04558135095767938,
+    "global_artifacts": 48
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0355_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01386906598115511,
+    "global_hausdorff": 0.09997260084341968,
+    "global_chamfer": 0.03869736846587231,
+    "global_artifacts": 37
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0356_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014110662220378151,
+    "global_hausdorff": 0.09987143166287141,
+    "global_chamfer": 0.03866052057390262,
+    "global_artifacts": 40
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0357_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014030959368129672,
+    "global_hausdorff": 0.08952364224141365,
+    "global_chamfer": 0.038245835818239884,
+    "global_artifacts": 37
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0358_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01543136502015585,
+    "global_hausdorff": 0.11445380622394093,
+    "global_chamfer": 0.046832883430097734,
+    "global_artifacts": 34
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0359_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013693407959564348,
+    "global_hausdorff": 0.07844823253108461,
+    "global_chamfer": 0.033194844885414874,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0360_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015185317252138338,
+    "global_hausdorff": 0.12898311620011904,
+    "global_chamfer": 0.04795616213917703,
+    "global_artifacts": 42
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0361_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014780970475480019,
+    "global_hausdorff": 0.11508419321887069,
+    "global_chamfer": 0.042152498769110085,
+    "global_artifacts": 42
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0362_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014656189644436692,
+    "global_hausdorff": 0.09213114820110249,
+    "global_chamfer": 0.041132889966651945,
+    "global_artifacts": 25
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0363_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015307350743202285,
+    "global_hausdorff": 0.11110695443010557,
+    "global_chamfer": 0.04553011713444996,
+    "global_artifacts": 40
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0364_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014809485259971784,
+    "global_hausdorff": 0.12684162670097443,
+    "global_chamfer": 0.045467610544472264,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0365_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01512728234393418,
+    "global_hausdorff": 0.11633716360784363,
+    "global_chamfer": 0.04419268601362214,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0366_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013789972277034426,
+    "global_hausdorff": 0.08759714304320004,
+    "global_chamfer": 0.037757280052365824,
+    "global_artifacts": 42
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0367_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014607292421203623,
+    "global_hausdorff": 0.10404403173939725,
+    "global_chamfer": 0.0411215797279542,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0368_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015138802545106878,
+    "global_hausdorff": 0.1340259637185316,
+    "global_chamfer": 0.04751223758812153,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0369_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014498293791416754,
+    "global_hausdorff": 0.10346110059053035,
+    "global_chamfer": 0.04229266560524859,
+    "global_artifacts": 47
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0370_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014616561539959532,
+    "global_hausdorff": 0.10246363314225006,
+    "global_chamfer": 0.04089087501591361,
+    "global_artifacts": 47
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0371_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014624865825439778,
+    "global_hausdorff": 0.1430562591217884,
+    "global_chamfer": 0.04785049506836189,
+    "global_artifacts": 29
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0372_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014574385008954315,
+    "global_hausdorff": 0.16109909173213222,
+    "global_chamfer": 0.04829740549910326,
+    "global_artifacts": 58
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0373_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014772271460325705,
+    "global_hausdorff": 0.09184800878809136,
+    "global_chamfer": 0.042506255712854144,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0374_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015032837619969649,
+    "global_hausdorff": 0.12627889868277112,
+    "global_chamfer": 0.04694820229743259,
+    "global_artifacts": 43
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0375_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01479151052278409,
+    "global_hausdorff": 0.13075096978822592,
+    "global_chamfer": 0.04505857758920909,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0376_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014925188726228382,
+    "global_hausdorff": 0.10113972581115431,
+    "global_chamfer": 0.043049721274823385,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0377_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01509151421484161,
+    "global_hausdorff": 0.09578922331421648,
+    "global_chamfer": 0.0427093302721222,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0378_lidar_classes.ply",
+    "n_segments": 9,
+    "global_rmse": 0.01452025394043198,
+    "global_hausdorff": 0.10574127742081328,
+    "global_chamfer": 0.04020299577827962,
+    "global_artifacts": 34
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0379_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.013255108615916946,
+    "global_hausdorff": 0.07863115081798411,
+    "global_chamfer": 0.03390677038153394,
+    "global_artifacts": 54
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0380_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014250862134025793,
+    "global_hausdorff": 0.08698688077486647,
+    "global_chamfer": 0.03713541454403747,
+    "global_artifacts": 42
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0381_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01546302947145315,
+    "global_hausdorff": 0.11791974811858005,
+    "global_chamfer": 0.0467087909814275,
+    "global_artifacts": 31
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0382_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013755291598875062,
+    "global_hausdorff": 0.07894042311789552,
+    "global_chamfer": 0.03609475606240172,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0383_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014733099917285455,
+    "global_hausdorff": 0.14671439246895238,
+    "global_chamfer": 0.04737370482401264,
+    "global_artifacts": 40
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0384_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014779150968154091,
+    "global_hausdorff": 0.13504444138944235,
+    "global_chamfer": 0.04949118715677246,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0385_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01574216047557493,
+    "global_hausdorff": 0.12889482024011492,
+    "global_chamfer": 0.052122692959266734,
+    "global_artifacts": 41
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0386_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01468140817244842,
+    "global_hausdorff": 0.12058992400600754,
+    "global_chamfer": 0.04675647779312145,
+    "global_artifacts": 27
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0387_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014316122026833755,
+    "global_hausdorff": 0.128437543703043,
+    "global_chamfer": 0.04496381629040601,
+    "global_artifacts": 30
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0388_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.01468147747634,
+    "global_hausdorff": 0.11803629598895718,
+    "global_chamfer": 0.044453198603921155,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0389_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013942460202500584,
+    "global_hausdorff": 0.1434685702195234,
+    "global_chamfer": 0.04592691066674841,
+    "global_artifacts": 41
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0390_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014078671867693784,
+    "global_hausdorff": 0.1045133943114235,
+    "global_chamfer": 0.041339156814606114,
+    "global_artifacts": 30
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0391_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015351686092832979,
+    "global_hausdorff": 0.12443154853885936,
+    "global_chamfer": 0.04746824252820641,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0392_lidar_classes.ply",
+    "n_segments": 9,
+    "global_rmse": 0.015764086566018187,
+    "global_hausdorff": 0.12743649123885215,
+    "global_chamfer": 0.048925936732653316,
+    "global_artifacts": 28
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0393_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01488778300420336,
+    "global_hausdorff": 0.12996190407000394,
+    "global_chamfer": 0.047395626037633844,
+    "global_artifacts": 43
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0394_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015018295711305347,
+    "global_hausdorff": 0.158828590431984,
+    "global_chamfer": 0.051621028997920454,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0395_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014542925422533435,
+    "global_hausdorff": 0.16131125349155317,
+    "global_chamfer": 0.05291230708939639,
+    "global_artifacts": 31
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0396_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01495771839213537,
+    "global_hausdorff": 0.10611025320263583,
+    "global_chamfer": 0.0408331972158617,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0397_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014961700272484299,
+    "global_hausdorff": 0.10519585000997515,
+    "global_chamfer": 0.04333296532134062,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0398_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013870806115148468,
+    "global_hausdorff": 0.0939141776841698,
+    "global_chamfer": 0.03738652356735267,
+    "global_artifacts": 49
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0399_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014722973828739641,
+    "global_hausdorff": 0.13007854980083577,
+    "global_chamfer": 0.04630387177252284,
+    "global_artifacts": 37
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0400_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014199686162045153,
+    "global_hausdorff": 0.11260638143526047,
+    "global_chamfer": 0.04443399581253096,
+    "global_artifacts": 25
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0401_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014808516743997307,
+    "global_hausdorff": 0.16620177967887878,
+    "global_chamfer": 0.05244388934816406,
+    "global_artifacts": 34
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0402_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014054163962902523,
+    "global_hausdorff": 0.14916755309969562,
+    "global_chamfer": 0.04746292994844394,
+    "global_artifacts": 54
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0403_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014999495727131124,
+    "global_hausdorff": 0.10930130157567165,
+    "global_chamfer": 0.04423380415077271,
+    "global_artifacts": 29
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0404_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015468312186193952,
+    "global_hausdorff": 0.16263202429804524,
+    "global_chamfer": 0.05623081827880687,
+    "global_artifacts": 27
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0405_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014397826003665804,
+    "global_hausdorff": 0.09737573599962199,
+    "global_chamfer": 0.041250630344201344,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0406_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014698442707121711,
+    "global_hausdorff": 0.11118292428877784,
+    "global_chamfer": 0.04439983785556065,
+    "global_artifacts": 41
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0407_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014488392656988721,
+    "global_hausdorff": 0.11028269781306733,
+    "global_chamfer": 0.04243341871223711,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0408_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015085626173625046,
+    "global_hausdorff": 0.12222464522843593,
+    "global_chamfer": 0.04676290931085511,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0409_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01496519078021352,
+    "global_hausdorff": 0.1348250346503229,
+    "global_chamfer": 0.04827608837735075,
+    "global_artifacts": 43
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0410_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014893782162989859,
+    "global_hausdorff": 0.10290421826349373,
+    "global_chamfer": 0.04079531172623853,
+    "global_artifacts": 47
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0411_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015437201146032949,
+    "global_hausdorff": 0.1331968168830451,
+    "global_chamfer": 0.04986874323868587,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0412_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014886605883261213,
+    "global_hausdorff": 0.1081893931963165,
+    "global_chamfer": 0.04373055725785916,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0413_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.015568175945660638,
+    "global_hausdorff": 0.12645223776793163,
+    "global_chamfer": 0.05026248604391642,
+    "global_artifacts": 29
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0414_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01502654964391831,
+    "global_hausdorff": 0.13983781822353822,
+    "global_chamfer": 0.045954091256573126,
+    "global_artifacts": 34
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0415_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015420316783883425,
+    "global_hausdorff": 0.14480787306280946,
+    "global_chamfer": 0.053041362141769584,
+    "global_artifacts": 41
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0416_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014222405633616078,
+    "global_hausdorff": 0.09417964025502673,
+    "global_chamfer": 0.03909082203233506,
+    "global_artifacts": 30
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0417_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015157186897829121,
+    "global_hausdorff": 0.1510470049642371,
+    "global_chamfer": 0.053748814069045345,
+    "global_artifacts": 23
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0418_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014506180207552797,
+    "global_hausdorff": 0.1311446929293571,
+    "global_chamfer": 0.04500916885400326,
+    "global_artifacts": 40
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0419_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014599198018695582,
+    "global_hausdorff": 0.10613342340863749,
+    "global_chamfer": 0.04237317476240119,
+    "global_artifacts": 39
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0420_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014319435806641263,
+    "global_hausdorff": 0.1284368302297808,
+    "global_chamfer": 0.04475104893568451,
+    "global_artifacts": 31
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0421_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014878023889840246,
+    "global_hausdorff": 0.14869093105373948,
+    "global_chamfer": 0.05269841420484842,
+    "global_artifacts": 71
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0422_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014327560509309521,
+    "global_hausdorff": 0.10572562347280182,
+    "global_chamfer": 0.039411526461512754,
+    "global_artifacts": 43
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0423_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014329006388951016,
+    "global_hausdorff": 0.15240484776944915,
+    "global_chamfer": 0.050048894380168046,
+    "global_artifacts": 47
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0424_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014923377388289616,
+    "global_hausdorff": 0.10653062321078541,
+    "global_chamfer": 0.041736501085422074,
+    "global_artifacts": 22
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0425_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01468784299936448,
+    "global_hausdorff": 0.1189637578752378,
+    "global_chamfer": 0.04479450207868931,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0426_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014006572003232801,
+    "global_hausdorff": 0.0988393035712694,
+    "global_chamfer": 0.03774049759990953,
+    "global_artifacts": 49
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0427_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01466252458348992,
+    "global_hausdorff": 0.1007528136755369,
+    "global_chamfer": 0.04147013681953027,
+    "global_artifacts": 34
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0428_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014296763512170848,
+    "global_hausdorff": 0.15666732861934327,
+    "global_chamfer": 0.05113879470279917,
+    "global_artifacts": 40
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0429_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01420510601919474,
+    "global_hausdorff": 0.09154040852631687,
+    "global_chamfer": 0.03969984381729033,
+    "global_artifacts": 34
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0430_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014545670415450334,
+    "global_hausdorff": 0.08252614542311774,
+    "global_chamfer": 0.0382583073808579,
+    "global_artifacts": 30
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0431_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014900951937681251,
+    "global_hausdorff": 0.14117168520574627,
+    "global_chamfer": 0.048699896373025194,
+    "global_artifacts": 43
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0432_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015282190296506425,
+    "global_hausdorff": 0.13535963090814082,
+    "global_chamfer": 0.04868161850064523,
+    "global_artifacts": 46
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0433_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01484986182425471,
+    "global_hausdorff": 0.1314237594428227,
+    "global_chamfer": 0.0479250759629755,
+    "global_artifacts": 31
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0434_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014754800470796695,
+    "global_hausdorff": 0.0805109311715576,
+    "global_chamfer": 0.03760265058583882,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0435_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01562561753517454,
+    "global_hausdorff": 0.1369773468504578,
+    "global_chamfer": 0.05063884892001386,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0436_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014257293455796731,
+    "global_hausdorff": 0.1467983153323563,
+    "global_chamfer": 0.04532643475236737,
+    "global_artifacts": 28
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0437_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015149581835984426,
+    "global_hausdorff": 0.16203167028576365,
+    "global_chamfer": 0.05406643365906095,
+    "global_artifacts": 40
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0438_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013944739953728134,
+    "global_hausdorff": 0.08452970389024153,
+    "global_chamfer": 0.03665191664104032,
+    "global_artifacts": 47
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0439_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014133856921124933,
+    "global_hausdorff": 0.11905002715784153,
+    "global_chamfer": 0.04448431566613461,
+    "global_artifacts": 37
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0440_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014850168254563268,
+    "global_hausdorff": 0.12450667271779867,
+    "global_chamfer": 0.04431181795015058,
+    "global_artifacts": 37
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0441_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.015118443473260298,
+    "global_hausdorff": 0.10531372240669439,
+    "global_chamfer": 0.04425424929002374,
+    "global_artifacts": 37
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0442_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01478725768653007,
+    "global_hausdorff": 0.10038435597862158,
+    "global_chamfer": 0.04261481921632979,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0443_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014227134733057626,
+    "global_hausdorff": 0.16259522555573122,
+    "global_chamfer": 0.05025715303836655,
+    "global_artifacts": 40
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0444_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014110457079053824,
+    "global_hausdorff": 0.12241646635284874,
+    "global_chamfer": 0.04461995748637257,
+    "global_artifacts": 23
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0445_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014233619010758345,
+    "global_hausdorff": 0.10243121530771956,
+    "global_chamfer": 0.04136169794603019,
+    "global_artifacts": 29
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0446_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013960607750056113,
+    "global_hausdorff": 0.08739590390975951,
+    "global_chamfer": 0.03697171204271696,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0447_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014887416898242566,
+    "global_hausdorff": 0.10054811554868574,
+    "global_chamfer": 0.04084483504470105,
+    "global_artifacts": 55
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0448_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01528863670324546,
+    "global_hausdorff": 0.12649440445876842,
+    "global_chamfer": 0.0479418000780475,
+    "global_artifacts": 26
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0449_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013488722436909871,
+    "global_hausdorff": 0.14716280305098306,
+    "global_chamfer": 0.047359648225371274,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0450_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.015550482016170143,
+    "global_hausdorff": 0.12306503676110242,
+    "global_chamfer": 0.04888892337818472,
+    "global_artifacts": 30
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0451_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014696185981616629,
+    "global_hausdorff": 0.10102534895937852,
+    "global_chamfer": 0.04135978153237688,
+    "global_artifacts": 37
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0452_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014303780251040513,
+    "global_hausdorff": 0.12031042752557251,
+    "global_chamfer": 0.04552608108167688,
+    "global_artifacts": 44
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0453_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014795018348872084,
+    "global_hausdorff": 0.1286000542177026,
+    "global_chamfer": 0.04858728768083882,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0454_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.0146637663116152,
+    "global_hausdorff": 0.12168724195481152,
+    "global_chamfer": 0.046438280768234856,
+    "global_artifacts": 31
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0455_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014537770324407201,
+    "global_hausdorff": 0.14484907729977264,
+    "global_chamfer": 0.04830511782675967,
+    "global_artifacts": 28
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0456_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013846819100346023,
+    "global_hausdorff": 0.09304179408835822,
+    "global_chamfer": 0.03825125386574408,
+    "global_artifacts": 49
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0457_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015420261573975495,
+    "global_hausdorff": 0.15128800091391262,
+    "global_chamfer": 0.051914616838568364,
+    "global_artifacts": 40
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0458_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015155418181081282,
+    "global_hausdorff": 0.1260653483245511,
+    "global_chamfer": 0.04712260591587812,
+    "global_artifacts": 45
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0459_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015105712431175507,
+    "global_hausdorff": 0.11140154821467799,
+    "global_chamfer": 0.04502725687171826,
+    "global_artifacts": 29
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0460_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014910707795479192,
+    "global_hausdorff": 0.15462754593903952,
+    "global_chamfer": 0.05032090783566766,
+    "global_artifacts": 28
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0461_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015347542743316518,
+    "global_hausdorff": 0.11772101437476327,
+    "global_chamfer": 0.04484429640780333,
+    "global_artifacts": 29
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0462_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015187409435928402,
+    "global_hausdorff": 0.1285326062083216,
+    "global_chamfer": 0.04706219542824056,
+    "global_artifacts": 47
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0463_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014450297369342908,
+    "global_hausdorff": 0.10248600793958745,
+    "global_chamfer": 0.04126420488616482,
+    "global_artifacts": 49
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0464_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014534258499614133,
+    "global_hausdorff": 0.16299486293857735,
+    "global_chamfer": 0.05153166010797727,
+    "global_artifacts": 53
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0465_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013423995877798262,
+    "global_hausdorff": 0.07742745989875731,
+    "global_chamfer": 0.03517870485774486,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0466_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.015308268971756777,
+    "global_hausdorff": 0.12244525156323063,
+    "global_chamfer": 0.0475993729383363,
+    "global_artifacts": 28
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0467_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015194177299159565,
+    "global_hausdorff": 0.14880631914832226,
+    "global_chamfer": 0.0520033073184435,
+    "global_artifacts": 30
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0468_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014641924907784485,
+    "global_hausdorff": 0.12699370426701426,
+    "global_chamfer": 0.047546006924808114,
+    "global_artifacts": 40
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0469_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015072664454748927,
+    "global_hausdorff": 0.14928363736329706,
+    "global_chamfer": 0.0528999605479403,
+    "global_artifacts": 28
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0470_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013966894707912384,
+    "global_hausdorff": 0.07677666724264688,
+    "global_chamfer": 0.035058061437738736,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0471_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.015129198804209567,
+    "global_hausdorff": 0.07703086070341794,
+    "global_chamfer": 0.038024777158518784,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0472_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01526069872583907,
+    "global_hausdorff": 0.09242689717499997,
+    "global_chamfer": 0.04051038531384652,
+    "global_artifacts": 45
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0473_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014159523630553979,
+    "global_hausdorff": 0.08418168079092561,
+    "global_chamfer": 0.03800093836454927,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0474_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.0154134714983277,
+    "global_hausdorff": 0.13494975685259356,
+    "global_chamfer": 0.047441062251906536,
+    "global_artifacts": 37
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0475_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01447982259257914,
+    "global_hausdorff": 0.08289358238598471,
+    "global_chamfer": 0.03825715938658327,
+    "global_artifacts": 30
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0476_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014436306575553247,
+    "global_hausdorff": 0.11132945085114652,
+    "global_chamfer": 0.044368984562306174,
+    "global_artifacts": 29
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0477_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014632180901292325,
+    "global_hausdorff": 0.11751366018684863,
+    "global_chamfer": 0.04275944251193391,
+    "global_artifacts": 33
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0478_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014379887874587422,
+    "global_hausdorff": 0.09154620282757028,
+    "global_chamfer": 0.04020150834612225,
+    "global_artifacts": 29
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0479_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014908531110038316,
+    "global_hausdorff": 0.13623190536223467,
+    "global_chamfer": 0.047647727583724445,
+    "global_artifacts": 27
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0480_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014756887660714254,
+    "global_hausdorff": 0.09018212220453349,
+    "global_chamfer": 0.040593132615563035,
+    "global_artifacts": 56
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0481_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01452688340221708,
+    "global_hausdorff": 0.1362658062537469,
+    "global_chamfer": 0.048863454540225844,
+    "global_artifacts": 40
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0482_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014977135121721202,
+    "global_hausdorff": 0.1026851108793986,
+    "global_chamfer": 0.04196916380537802,
+    "global_artifacts": 46
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0483_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013773241091800063,
+    "global_hausdorff": 0.12121993621773805,
+    "global_chamfer": 0.042494984565136694,
+    "global_artifacts": 42
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0484_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.013881854697629658,
+    "global_hausdorff": 0.09777953748274501,
+    "global_chamfer": 0.03983130540586339,
+    "global_artifacts": 52
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0485_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014489398037789727,
+    "global_hausdorff": 0.09416028548267813,
+    "global_chamfer": 0.03987281857819317,
+    "global_artifacts": 47
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0486_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014548575020392265,
+    "global_hausdorff": 0.09196527643573568,
+    "global_chamfer": 0.038638972024924216,
+    "global_artifacts": 38
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0487_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014915672086338691,
+    "global_hausdorff": 0.11368205369025741,
+    "global_chamfer": 0.04334252454846778,
+    "global_artifacts": 45
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0488_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014657002102196778,
+    "global_hausdorff": 0.13623682663229014,
+    "global_chamfer": 0.049336444761862275,
+    "global_artifacts": 44
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0489_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01418822367070194,
+    "global_hausdorff": 0.10486816344304146,
+    "global_chamfer": 0.04193572662531961,
+    "global_artifacts": 36
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0490_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014349291953162247,
+    "global_hausdorff": 0.099553060718806,
+    "global_chamfer": 0.041045656120979185,
+    "global_artifacts": 40
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0491_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01410986742167377,
+    "global_hausdorff": 0.09571434105385447,
+    "global_chamfer": 0.038809127529723125,
+    "global_artifacts": 41
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0492_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015376081194694207,
+    "global_hausdorff": 0.12935795540109934,
+    "global_chamfer": 0.04822470707813911,
+    "global_artifacts": 35
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0493_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014917509608975782,
+    "global_hausdorff": 0.13592931090049312,
+    "global_chamfer": 0.04862890615887099,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0494_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014225337542628518,
+    "global_hausdorff": 0.09342242052043682,
+    "global_chamfer": 0.039794990007134406,
+    "global_artifacts": 27
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0495_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.015135042579572097,
+    "global_hausdorff": 0.08756406188451243,
+    "global_chamfer": 0.03814221095896769,
+    "global_artifacts": 24
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0496_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014227552994176952,
+    "global_hausdorff": 0.10803738665606623,
+    "global_chamfer": 0.041485511186822144,
+    "global_artifacts": 27
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0497_lidar_classes.ply",
+    "n_segments": 10,
+    "global_rmse": 0.014973737129708741,
+    "global_hausdorff": 0.10642439458485968,
+    "global_chamfer": 0.044203036944374496,
+    "global_artifacts": 32
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0498_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.01414629801327236,
+    "global_hausdorff": 0.0874724262569774,
+    "global_chamfer": 0.03769126917702132,
+    "global_artifacts": 40
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0499_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014737327142848998,
+    "global_hausdorff": 0.0957369291481053,
+    "global_chamfer": 0.040559748554782844,
+    "global_artifacts": 54
+  },
+  {
+    "file": "C:\\Users\\jorjanoo\\Downloads\\5\\valve_0500_lidar_classes.ply",
+    "n_segments": 11,
+    "global_rmse": 0.014922645095462603,
+    "global_hausdorff": 0.10539192638302738,
+    "global_chamfer": 0.04058049939293129,
+    "global_artifacts": 44
+  }
+]

@@ -1,0 +1,120 @@
+=== 5.01.obj ===
+  Points: 48
+  6.1 Density:  mean_nn=0.1542, qual=low
+  6.2 Shape:    elongation=4.38, type=volumetric
+  6.3 Surface:  curvature=0.1339, class=highly curved
+  6.4 Normals:  angle=48.0°, qual=low (complex/noisy)
+  6.5 Topology: components=12, integrity=0.08 (fragmented or many components)
+
+=== 5.02.obj ===
+  Points: 96
+  6.1 Density:  mean_nn=0.0292, qual=medium
+  6.2 Shape:    elongation=466.07, type=linear
+  6.3 Surface:  curvature=0.0624, class=slightly curved
+  6.4 Normals:  angle=30.8°, qual=low (complex/noisy)
+  6.5 Topology: components=24, integrity=0.04 (fragmented or many components)
+
+=== 5.03.obj ===
+  Points: 2912
+  6.1 Density:  mean_nn=0.0699, qual=medium
+  6.2 Shape:    elongation=1.83, type=volumetric
+  6.3 Surface:  curvature=0.0431, class=slightly curved
+  6.4 Normals:  angle=23.3°, qual=medium (cylindrical/spherical)
+  6.5 Topology: components=256, integrity=0.03 (fragmented or many components)
+
+=== 5.04.obj ===
+  Points: 2688
+  6.1 Density:  mean_nn=0.0192, qual=medium
+  6.2 Shape:    elongation=53.93, type=linear
+  6.3 Surface:  curvature=0.0041, class=smooth
+  6.4 Normals:  angle=19.9°, qual=medium (cylindrical/spherical)
+  6.5 Topology: components=198, integrity=0.15 (fragmented or many components)
+
+=== 5.05.obj ===
+  Points: 1412
+  6.1 Density:  mean_nn=0.0142, qual=medium
+  6.2 Shape:    elongation=353.55, type=linear
+  6.3 Surface:  curvature=0.0099, class=smooth
+  6.4 Normals:  angle=16.1°, qual=medium (cylindrical/spherical)
+  6.5 Topology: components=16, integrity=0.37 (fragmented or many components)
+
+=== 5.06.obj ===
+  Points: 3350
+  6.1 Density:  mean_nn=0.0743, qual=medium
+  6.2 Shape:    elongation=4.63, type=planar
+  6.3 Surface:  curvature=0.0238, class=slightly curved
+  6.4 Normals:  angle=21.0°, qual=medium (cylindrical/spherical)
+  6.5 Topology: components=61, integrity=0.44 (fragmented or many components)
+
+=== 5.07.obj ===
+  Points: 26296
+  6.1 Density:  mean_nn=0.0327, qual=high
+  6.2 Shape:    elongation=3.10, type=volumetric
+  6.3 Surface:  curvature=0.0101, class=smooth
+  6.4 Normals:  angle=22.8°, qual=medium (cylindrical/spherical)
+  6.5 Topology: components=10712, integrity=0.00 (fragmented or many components)
+
+=== 5.08.obj ===
+  Points: 3287
+  6.1 Density:  mean_nn=0.0405, qual=medium
+  6.2 Shape:    elongation=42.35, type=linear
+  6.3 Surface:  curvature=0.0101, class=smooth
+  6.4 Normals:  angle=22.8°, qual=medium (cylindrical/spherical)
+  6.5 Topology: components=1339, integrity=0.00 (fragmented or many components)
+
+=== 5.09.obj ===
+  Points: 4998
+  6.1 Density:  mean_nn=0.0624, qual=medium
+  6.2 Shape:    elongation=9.73, type=planar
+  6.3 Surface:  curvature=0.0077, class=smooth
+  6.4 Normals:  angle=7.1°, qual=high (planar/smooth)
+  6.5 Topology: components=10, integrity=0.52 (fragmented or many components)
+
+=== 5.10.obj ===
+  Points: 4998
+  6.1 Density:  mean_nn=0.0624, qual=medium
+  6.2 Shape:    elongation=9.73, type=planar
+  6.3 Surface:  curvature=0.0077, class=smooth
+  6.4 Normals:  angle=7.2°, qual=high (planar/smooth)
+  6.5 Topology: components=10, integrity=0.52 (fragmented or many components)
+
+=== 5.11.obj ===
+  Points: 7489
+  6.1 Density:  mean_nn=0.0793, qual=medium
+  6.2 Shape:    elongation=2.34, type=volumetric
+  6.3 Surface:  curvature=0.0008, class=smooth
+  6.4 Normals:  angle=4.2°, qual=high (planar/smooth)
+  6.5 Topology: components=8, integrity=0.87 (mostly intact with small outliers)
+
+=== 5.12.obj ===
+  Points: 3244
+  6.1 Density:  mean_nn=0.0803, qual=medium
+  6.2 Shape:    elongation=11.62, type=planar
+  6.3 Surface:  curvature=0.0098, class=smooth
+  6.4 Normals:  angle=7.5°, qual=high (planar/smooth)
+  6.5 Topology: components=15, integrity=0.21 (fragmented or many components)
+
+=== 5.13.obj ===
+  Points: 5638
+  6.1 Density:  mean_nn=0.0574, qual=medium
+  6.2 Shape:    elongation=3.58, type=volumetric
+  6.3 Surface:  curvature=0.0077, class=smooth
+  6.4 Normals:  angle=7.0°, qual=high (planar/smooth)
+  6.5 Topology: components=653, integrity=0.25 (fragmented or many components)
+
+=== 5.14.obj ===
+  Points: 13489
+  6.1 Density:  mean_nn=0.0224, qual=medium
+  6.2 Shape:    elongation=3.73, type=volumetric
+  6.3 Surface:  curvature=0.0064, class=smooth
+  6.4 Normals:  angle=9.7°, qual=high (planar/smooth)
+  6.5 Topology: components=38, integrity=0.43 (fragmented or many components)
+
+=== 5.obj ===
+  Points: 79945
+  6.1 Density:  mean_nn=0.0418, qual=high
+  6.2 Shape:    elongation=5.12, type=volumetric
+  6.3 Surface:  curvature=0.0159, class=smooth
+  6.4 Normals:  angle=17.1°, qual=medium (cylindrical/spherical)
+  6.5 Topology: components=13068, integrity=0.25 (fragmented or many components)
+
