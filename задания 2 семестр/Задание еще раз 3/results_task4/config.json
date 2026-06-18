@@ -1,0 +1,65 @@
+{
+  "data_dir": "C:\\Users\\jorjanoo\\Downloads\\IS-20260617T163644Z-3-002",
+  "n_points": 2048,
+  "batch_size": 8,
+  "epochs": 30,
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "split_ratios": [
+    0.7,
+    0.15,
+    0.15
+  ],
+  "scene_level": 0,
+  "num_runs": 3,
+  "run_seeds": [
+    42,
+    123,
+    2024
+  ],
+  "models": [
+    "PointNet",
+    "PointNet++",
+    "DGCNN"
+  ],
+  "num_classes": 19,
+  "class_names": [
+    "unknown",
+    "pipe",
+    "wire",
+    "wall",
+    "floor",
+    "ceiling",
+    "machine",
+    "desk",
+    "rack",
+    "boiler",
+    "conveyor",
+    "structure",
+    "infrastructure",
+    "roof",
+    "window",
+    "door",
+    "gate",
+    "terrain",
+    "facade"
+  ],
+  "n_scenes": 1,
+  "split_scenes": {
+    "train": [
+      "__file_split__"
+    ],
+    "val": [],
+    "test": []
+  },
+  "environment": {
+    "python": "3.12.8",
+    "platform": "Windows-11-10.0.22631-SP0",
+    "torch": "2.11.0+cu128",
+    "cuda": "12.8",
+    "cuda_available": true,
+    "numpy": "2.4.6",
+    "scikit_learn": "1.9.0",
+    "matplotlib": "3.11.0"
+  }
+}
